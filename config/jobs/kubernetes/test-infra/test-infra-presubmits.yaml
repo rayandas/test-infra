@@ -1,5 +1,5 @@
 presubmits:
-  kubernetes/test-infra:
+  rayandas/test-infra:
   - name: pull-test-infra-gubernator
     cluster: eks-prow-build-cluster
     branches:
